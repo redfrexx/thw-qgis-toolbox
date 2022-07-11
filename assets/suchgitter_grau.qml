@@ -14,7 +14,7 @@
   </temporal>
   <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" referencescale="-1" enableorderby="0">
     <symbols>
-      <symbol alpha="1" name="0" clip_to_extent="1" type="fill" force_rhr="0">
+      <symbol alpha="0.7" name="0" clip_to_extent="1" type="fill" force_rhr="0">
         <data_defined_properties>
           <Option type="Map">
             <Option name="name" value="" type="QString"/>
@@ -30,9 +30,9 @@
             <Option name="offset" value="0,0" type="QString"/>
             <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
             <Option name="offset_unit" value="MM" type="QString"/>
-            <Option name="outline_color" value="106,106,106,255" type="QString"/>
+            <Option name="outline_color" value="144,152,155,234" type="QString"/>
             <Option name="outline_style" value="solid" type="QString"/>
-            <Option name="outline_width" value="0.66" type="QString"/>
+            <Option name="outline_width" value="0.46" type="QString"/>
             <Option name="outline_width_unit" value="MM" type="QString"/>
             <Option name="style" value="no" type="QString"/>
           </Option>
@@ -42,9 +42,9 @@
           <prop k="offset" v="0,0"/>
           <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
           <prop k="offset_unit" v="MM"/>
-          <prop k="outline_color" v="106,106,106,255"/>
+          <prop k="outline_color" v="144,152,155,234"/>
           <prop k="outline_style" v="solid"/>
-          <prop k="outline_width" v="0.66"/>
+          <prop k="outline_width" v="0.46"/>
           <prop k="outline_width_unit" v="MM"/>
           <prop k="style" v="no"/>
           <data_defined_properties>
